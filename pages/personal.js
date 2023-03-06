@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Kado from "../public/img/kado.jpg";
+import Kado from "../public/img/Kado.jpg";
 
 function personal() {
   return (
